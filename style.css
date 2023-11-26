@@ -1,0 +1,76 @@
+* {margin:0; padding:0;}
+html,body {margin:5px;}
+th {text-align:center;white-space:nowrap;font-weight:normal;background-color:silver;}
+td {white-space:nowrap;padding:0 2px;border-color:silver;}
+select {font-family:"ＭＳ ゴシック";}
+.t {text-align:center;background-color:silver;}
+.box {padding:0 0.4em;border-collapse:collapse;border:2px ridge #333333;background-color:silver;}
+
+#s_wpBox {width:15em; text-align:center;}
+#d_att,#d_kaisin {width:4em; text-align:center;}
+#d_zoku {width:6em; text-align:center;}
+#d_slot,#d_def,#d_class {width:4em; text-align:center;}
+#d_kick,#d_reload {width:6em; text-align:center;}
+
+#g_attBox,#e_attBox {width:8em; text-align:center;}
+#g_zokuBox,#g_ijyouBox {width:6em; text-align:center;}
+#g_kaisin {width:3em; text-align:center;}
+#c_gun_G,#c_yumi_G,#damage,#listInput {display:none}
+#c_GclassLv,#c_sinkaLv,#c_gunLv,#c_blessLabel {display:none}
+
+.chkB {margin-right:0; height:1.8em; border:outset 2px;}
+#damage small {color:mediumblue;}
+
+#damage {text-align:center;}
+#damage .dai {background-color:silver;text-align:center;}
+#damage tr>td:first-child {background-color:silver;}
+.aj1:after {content:"[斬]";font-size: x-small;color:blue;}
+.aj2:after {content:"[打]";font-size: x-small;color:blue;}
+.aj3:after {content:"[弾]";font-size: x-small;color:blue;}
+
+#niku {text-align:center;}
+#niku .dai {background-color:silver;white-space:normal;}
+#niku tr>td:first-child {background-color:silver;white-space:normal;}
+
+#d_doc {font-size:80%;}
+/*武器一覧より*/
+/*笛*/
+#d_spec .f {background-color:silver;}
+#d_spec .fr {color:red;}
+#d_spec .fb {color:blue;}
+#d_spec .fw {color:white;}
+#d_spec .fy {color:yellow;}
+#d_spec .fg {color:lime;}
+#d_spec .fa {color:aqua;}
+#d_spec .fp {color:fuchsia;}
+/*ゲージ用*/
+#d_spec ul {margin:0;padding:1px 0;height:10px;width:140px;list-style-type:none;font-size:85%;background-color:slategray;}
+#d_spec .r {float:left;height:10px;background-color:red;}
+#d_spec .o {float:left;height:10px;background-color:orange;}
+#d_spec .y {float:left;height:10px;background-color:yellow;}
+#d_spec .g {float:left;height:10px;background-color:lime;}
+#d_spec .b {float:left;height:10px;background-color:blue;}
+#d_spec .w {float:left;height:10px;background-color:white;}
+#d_spec .p {float:left;height:10px;background-color:violet;}
+#d_spec .s {float:left;height:10px;background-color:cyan;}
+
+/*
+     FILE ARCHIVED ON 19:42:48 Oct 09, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:07:37 Nov 26, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 76.289
+  exclusion.robots: 0.069
+  exclusion.robots.policy: 0.061
+  cdx.remote: 0.052
+  esindex: 0.01
+  LoadShardBlock: 51.876 (3)
+  PetaboxLoader3.datanode: 61.611 (5)
+  load_resource: 96.004 (2)
+  PetaboxLoader3.resolve: 64.724 (2)
+*/
