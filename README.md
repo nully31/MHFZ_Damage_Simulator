@@ -4,4 +4,4 @@ This is salvaged/forked from [Web archive](https://web.archive.org/web/201910091
 
 Currently only available in Japanese.
 
-[Github Pages](https://masa-731.github.io/MHFZ_Damage_Simulator/)
+[Github Pages](https://nully31.github.io/MHFZ_Damage_Simulator/)
